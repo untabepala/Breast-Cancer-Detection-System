@@ -11,5 +11,7 @@ Bootstrap for Frontend: For the user interface, we employed Bootstrap, a popular
 
 # Project Highlights:
 Early Detection: By integrating logistic regression and data scaling techniques, our system enhances the accuracy of early breast cancer detection, potentially improving patient outcomes.
+
 User-Friendly Interface: The combination of Flask and Bootstrap provides a smooth and intuitive user experience, making it easy for healthcare professionals to input data and receive results.
+
 Efficient Data Processing: The use of standard scaling ensures that our model handles the input data effectively, leading to more reliable predictions.
